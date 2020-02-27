@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This is the second file to test REBASE on Core_EnGineering_Feature from MASTER branch -- v1.0 but with different git commit 
+=======
+This is the second file to test REBASE on Core_EnGineering_Feature  
+>>>>>>> This is to test REBASE on Core_EnGineering_Feature
