@@ -1,0 +1,6 @@
+This file is created to do FAST--forward merge with master branch --v1.0
+<<<<<<< HEAD
+This is test merge conflict between master and NTTData_Feature -- v2.0
+=======
+###This line is create and resolve the merge conflict -- v2.0
+>>>>>>> NTTDataProject_Feature
